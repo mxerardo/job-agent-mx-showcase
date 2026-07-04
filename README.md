@@ -176,8 +176,7 @@ def deduplicate(self, jobs, history_path='../data/history.json', retention_days=
 
 ## Resultado
 
-<img width="738" height="1600" alt="bot_2" src="https://github.com/user-attachments/assets/eb1a3609-823b-42e4-8f21-b05b56f2d471" />
-<img width="1080" height="1167" alt="bot_1" src="https://github.com/user-attachments/assets/77a60058-c53b-4311-9f34-f686293fd81f" />
+<img width="824" height="1600" alt="bot_1" src="https://github.com/user-attachments/assets/3205f63f-686c-49ec-85fc-be920b9fe9f6" />
 
 ## Contacto
 
